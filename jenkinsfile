@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the source code from the Git repository
-                git 'https://github.com/your-username/your-repo.git'
+              https://github.com/sandeep03422/Azure_jenkins.git
             }
         }
         
